@@ -131,10 +131,6 @@ session_start();
                                         <input type="password" class="form-control rounded-3" name="password" id="pass">
                                         <label for="pass">type password</label>
                                     </div>
-                                    <div class="form-floating mb-3">
-                                        <input type="password_confirm" class="form-control rounded-3" id="pass_confirm">
-                                        <label for="pass_confirm">repeat password</label>
-                                    </div>
                                     <div class="">
                                         <label for="profile_photo">your photo:</label>
                                         <br>
